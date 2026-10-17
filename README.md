@@ -36,13 +36,15 @@ A text editor or Python IDE, such as IDLE or Visual Studio Code.
 A terminal or command prompt to run the program.
 No additional libraries are required because the program uses Python's built-in functions.
 
-12.	How to Run	
+12.	How to Run
+    
 Copy the Python source code into a file named device_monitor.py.
 Save the file in your preferred folder.
 Open a terminal in that folder.
 Run the command
 
-13.	Sample Output	
+14.	Sample Output
+    
 SIMULATED DEVICE MONITORING SYSTEM
 ----------------------------------
 [1] View Readings
@@ -53,7 +55,7 @@ SIMULATED DEVICE MONITORING SYSTEM
 
 Enter choice: 4
 
-MONITORING SUMMARY
+Monitoring Summary
 ------------------
 Number of readings  : 5
 Total of readings   : 160
