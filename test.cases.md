@@ -16,6 +16,6 @@ Date: October 12, 2026
 | TC09 | Enter 9 | Error message displayed and menu repeats | Invalid choice message displayed and menu shown again | Pass |
 | TC10 | Choose 5 | Exit message displayed and program ends | Thank-you message appears; program ends. | Pass |
 
-# Bugs Found and Fixed
+Bugs Found and Fixed
 
 The hardest part was validating user input. The program uses isdigit() to reject letters, decimal numbers, and negative numbers. It also checks that readings are within the allowed range of 0 to 100 before adding them to the list.
