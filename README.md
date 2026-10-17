@@ -44,8 +44,9 @@ Open a terminal in that folder.
 Run the command
 
 14.	Sample Output
-    
+
 SIMULATED DEVICE MONITORING SYSTEM
+
 ----------------------------------
 [1] View Readings
 [2] Add Reading
@@ -55,7 +56,8 @@ SIMULATED DEVICE MONITORING SYSTEM
 
 Enter choice: 4
 
-Monitoring Summary
+MONITORING SUMMARY 
+
 ------------------
 Number of readings  : 5
 Total of readings   : 160
